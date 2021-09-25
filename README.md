@@ -1,4 +1,4 @@
-## Oiii! Eu sou Jeferson Luis.
+## Jeferson Luis.
 <div>
   <a href="https://github.com/Jeffx234">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeffx234&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
