@@ -1,6 +1,6 @@
-<h1>Hey! <img src="hiGif" width="30px"></h1>
+<h1>Hey! <img src="https://github.com/Jeffx234/Jeffx234/blob/main/images/Hi.gif" width="30px"></h1>
 
-<h2>I'm Jeferson Luis! <img src="think gif" width="30px"></h2>
+<h2>I'm Jeferson Luis! <img src="https://github.com/Jeffx234/Jeffx234/blob/main/images/think.gif" width="30px"></h2>
 
 Desenvolvedor Front-end .
 
