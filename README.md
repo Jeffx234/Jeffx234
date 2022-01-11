@@ -1,22 +1,19 @@
-## Jeferson Luis.
-<div>
-  <a href="https://github.com/Jeffx234">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeffx234&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffx234&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<h1>Hey! <img src="hiGif" width="30px"></h1>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-  
- ##
- 
-<div> 
+<h2>I'm Jeferson Luis! <img src="think gif" width="30px"></h2>
 
-  <a href="https://instagram.com/jefersonluis91" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeferson-luis-055720210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+Desenvolvedor Front-end .
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Luis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jeffx234/)](https://www.linkedin.com/in/jefersonluisx/) [![Gmail Badge](https://img.shields.io/badge/-jefersonluisx@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonluisx@hotmail.com)](mailto:jefersonluisx@hotmail.com) [![Rocketseat Badge](https://img.shields.io/badge/-Jeferson%20Luis-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/jefersonluisx-1624625659160/)](https://app.rocketseat.com.br/me/jefersonluisx-1624625659160/)
+
+<code><img height="20" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+Apaixonado por tecnologia. Atualmente cursando análise e desenvolvimento de sistemas e estudando Reactjs e typescript
+
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=Jeffx234&show_icons=true&theme=dracula&count_private=true" />
+  <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffx234&count_private=true&langs_count=4&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql,objective-c" />
+</div>
